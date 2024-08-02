@@ -13,10 +13,15 @@ Version Control (Git).
 
 🚀 Projects:
 WeatherWise: A weather application that fetches and displays weather data based on user location or input.
+
 Tic-Tac-Toe Game: An interactive game with user and AI play modes.
+
 Boult X Mustang Landing Page: A responsive and visually appealing product landing page.
+
 Advanced Stopwatch: A feature-rich stopwatch application.
+
 Quiz Web App, Music Player, Library Book Management System, Memory Game and more.
+
 📺 YouTube Channel: CodeWithYash - Showcasing my frontend projects here - https://www.youtube.com/channel/UCbALLm46GMQrR93KHT-IlPA
 
 📫 Get in Touch: ybaid94@gmail.com
