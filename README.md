@@ -6,10 +6,10 @@ I’m Yash Baid, a passionate Frontend Web Developer dedicated to crafting seaml
 
 🔧 Skills & Technologies:
 
-HTML5, CSS3, JavaScript
-Responsive Web Design
-APIs and Asynchronous Programming
-Version Control (Git)
+HTML5, CSS3, JavaScript,
+Responsive Web Design,
+APIs and Asynchronous Programming,
+Version Control (Git).
 
 🚀 Projects:
 WeatherWise: A weather application that fetches and displays weather data based on user location or input.
