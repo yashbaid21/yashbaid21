@@ -22,8 +22,6 @@ Advanced Stopwatch: A feature-rich stopwatch application.
 
 Quiz Web App, Music Player, Library Book Management System, Memory Game and more.
 
-📺 YouTube Channel: CodeWithYash - Showcasing my frontend projects here - https://www.youtube.com/channel/UCbALLm46GMQrR93KHT-IlPA
-
 📫 Get in Touch: ybaid94@gmail.com
 
 You can checkout my other social media platforms here: https://www.linkedin.com/in/yash-baid-434bb3276/
