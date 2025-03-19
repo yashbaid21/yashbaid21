@@ -25,5 +25,3 @@ Quiz Web App, Music Player, Library Book Management System, Memory Game and more
 
 
 📫 Get in Touch: ybaid94@gmail.com
-
-You can checkout my other social media platforms here: https://www.linkedin.com/in/yash-baid-434bb3276/
