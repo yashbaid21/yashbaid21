@@ -1,27 +1,46 @@
-## Hi there 👋
+# 👋 Hello, I'm Yash!  
 
-I’m Yash Baid, a passionate Frontend Web Developer dedicated to crafting seamless and engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+🚀 **Web Developer | Frontend Specialist**
 
-💼 Experience: Intern at Prodigy InfoTech.
+---
 
-🔧 Skills & Technologies:
+### 👨‍💻 About Me
+- 🎓 Completed **Bachelor of Computer Applications (BCA)** in June 2024.
+- 💡 Founder of **Web Vision** — A web development business website that specializes in:
+  - Website Development
+  - Landing Page Design
+  - Advertisement Templates
+  - Poster & Banner Designing
+- 🌐 Developed multiple projects, including a **Pokedex Web App** and **Web Vision Portfolio Website**.
+- 🎥 Planning to launch a **helping YouTube channel** to share knowledge about web development, cloud computing, and cybersecurity.
 
-HTML5, CSS3, JavaScript,
-Responsive Web Design,
-APIs and Asynchronous Programming,
-Version Control (Git).
+---
 
-🚀 Projects:
+### 🛠️ Tech Stack
+- 💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript (Basic), ReactJS (Basic)
+- 🎨 **Design Tools:** Canva, Powerpoint and other tools
+- 📚 **Learning:** Cloud Computing, Backend Development, Cybersecurity
 
-WeatherWise: A weather application that fetches and displays weather data based on user location or input.
+---
 
-Tic-Tac-Toe Game: An interactive game with user and AI play modes.
+### 🌟 Current Goals
+- 🌐 Build an updated **Web Vision** website with 3D effects and interactive UI.
+- ☁️ Dive deeper into **Cloud Computing** and consider it as a career.
+- 🔐 Explore **Cybersecurity** and its applications.
 
-Boult X Mustang Landing Page: A responsive and visually appealing product landing page.
+---
 
-Advanced Stopwatch: A feature-rich stopwatch application.
+### 📫 Let's Connect!
+- 🌐 [Portfolio Website](https://yashbaid21.github.io/My-Portfolio/) (Coming Soon with new updates!)
+- 📧 Email:(mailto:ybaid94@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashbaid07/)    
 
-Quiz Web App, Music Player, Library Book Management System, Memory Game and more.
+---
 
+### 🎯 Featured Projects
+- 🎮 [Pokedex Web App](https://yashbaid21.github.io/PokeDex/)
+- 🌐 [Web Vision Website](https://webvision21.netlify.app/)
 
-📫 Get in Touch: ybaid94@gmail.com
+---
+
+✨ **“Code, Create, and Contribute to Make a Difference!”** ✨
