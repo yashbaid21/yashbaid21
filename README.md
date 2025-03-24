@@ -32,7 +32,7 @@
 
 ### 📫 Let's Connect!
 - 🌐 [Portfolio Website](https://yashbaid21.github.io/My-Portfolio/) (Coming Soon with new updates!)
-- 📧 Email:(mailto:ybaid94@gmail.com)
+- 📧 [Email]:(ybaid94@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashbaid07/)    
 
 ---
