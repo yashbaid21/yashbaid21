@@ -12,20 +12,18 @@
   - Advertisement Templates
   - Poster & Banner Designing
 - 🌐 Developed multiple projects, including a **Pokedex Web App** and **Web Vision Portfolio Website**.
-- 🎥 Planning to launch a **helping YouTube channel** to share knowledge about web development, cloud computing, and cybersecurity.
-
+- 🎥 Planning to launch a **helping YouTube channel** to share knowledge about web development and designing.
 ---
 
 ### 🛠️ Tech Stack
 - 💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript (Basic), ReactJS (Basic)
-- 🎨 **Design Tools:** Canva, Powerpoint and other tools
-- 📚 **Learning:** Cloud Computing, Backend Development, Cybersecurity
+- 🎨 **Design Tools:** Canva, Pixellab.
+- 📚 **Learning:** Cloud Computing, Backend Development, Cybersecurity (in future)
 
 ---
 
 ### 🌟 Current Goals
-- 🌐 Build an updated **Web Vision** website with 3D effects and interactive UI.
-- ☁️ Dive deeper into **Cloud Computing** and consider it as a career.
+- 🌐 Build an updated **Web Vision** website.
 - 🔐 Explore **Cybersecurity** and its applications.
 
 ---
