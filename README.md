@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yash!  
 
-🚀 **Web Developer | Frontend Specialist**
+🚀 **Frontend Web Developer**
 
 ---
 
