@@ -28,7 +28,7 @@
 
 ### 📫 Let's Connect!
 - 🌐 [Portfolio Website](https://yashbaidportfolio.netlify.app/)
-- 📧 [Email]:(ybaid94@gmail.com)
+- 📧 (ybaid94@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashbaid07/)    
 
 ---
