@@ -11,25 +11,23 @@
   - Landing Page Design
   - Advertisement Templates
   - Poster & Banner Designing
-- 🌐 Developed multiple projects, including a **Pokedex Web App** and **Web Vision Portfolio Website**.
-- 🎥 Planning to launch a **helping YouTube channel** to share knowledge about web development and designing.
----
+- 🌐 Developed multiple projects, including a **Pokedex Web App** and **Web Vision Website**.
 
 ### 🛠️ Tech Stack
-- 💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript (Basic), ReactJS (Basic)
+- 💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript, ReactJS, AOS.js
 - 🎨 **Design Tools:** Canva, Pixellab.
-- 📚 **Learning:** Cloud Computing, Backend Development, Cybersecurity (in future)
+- 📚 **Learning:** Backend Development, Graphic Designing
 
 ---
 
 ### 🌟 Current Goals
 - 🌐 Build an updated **Web Vision** website.
-- 🔐 Explore **Cybersecurity** and its applications.
+- 🔐 Explore **Backend Development** and its applications.
 
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://yashbaid21.github.io/My-Portfolio/) (Coming Soon with new updates!)
+- 🌐 [Portfolio Website](https://yashbaidportfolio.netlify.app/)
 - 📧 [Email]:(ybaid94@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashbaid07/)    
 
