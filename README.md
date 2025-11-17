@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yash!  
 
-🚀 **Frontend Web Developer**
+🚀 **Frontend Web Developer and Graphic Designer**
 
 ---
 
@@ -15,8 +15,8 @@
 
 ### 🛠️ Tech Stack
 - 💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript, ReactJS, AOS.js
-- 🎨 **Design Tools:** Canva, Pixellab.
-- 📚 **Learning:** Backend Development, Graphic Designing
+- 🎨 **Design Tools:** Canva, Fotot, Recraft, Kittl, X-Design.
+- 📚 **Learning:** Backend Development, Graphic Designing.
 
 ---
 
