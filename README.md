@@ -1,42 +1,105 @@
-# 👋 Hello, I'm Yash!  
+# Hi there! 👋 I'm Yash Baid
 
-🚀 **Frontend Web Developer and Graphic Designer**
+### Frontend Developer | Graphic Designer | Learning Python
 
----
+I'm a passionate developer and designer from India who enjoys building responsive websites, creating modern UI designs, and solving real-world problems through technology.
 
-### 👨‍💻 About Me
-- 🎓 Completed **Bachelor of Computer Applications (BCA)** in June 2024.
-- 💡 Founder of **Web Vision** — A web development business website that specializes in:
-  - Website Development
-  - Landing Page Design
-  - Advertisement Templates
-  - Poster & Banner Designing
-- 🌐 Developed multiple projects, including a **Pokedex Web App** and **Web Vision Website**.
-
-### 🛠️ Tech Stack
-- 💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript, ReactJS, AOS.js
-- 🎨 **Design Tools:** Canva, Fotot, Recraft, Kittl, X-Design.
-- 📚 **Learning:** Backend Development, Graphic Designing.
+Currently, I'm strengthening my programming skills with Python while continuing to build frontend projects and improve my design skills.
 
 ---
 
-### 🌟 Current Goals
-- 🌐 Build an updated **Web Vision** website.
-- 🔐 Explore **Backend Development** and its applications.
+## 🚀 About Me
+
+🎓 Bachelor of Computer Applications (BCA)
+
+💻 Passionate about Frontend Development and UI Design
+
+🎨 Graphic Designer specializing in posters, banners, logos, thumbnails, and social media creatives
+
+📖 Currently learning Python and software development fundamentals
+
+🌱 Always learning new technologies and improving my skills
 
 ---
 
-### 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://yashbaidportfolio.netlify.app/)
-- 📧 (ybaid94@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yashbaid07/)    
+## 💻 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- React
+
+### Design
+- Canva
+- Figma
+- Kittl
+- Recraft
+- Fotor
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Currently Learning
+- Python
+- Backend Development
+- Data Structures & Algorithms
 
 ---
 
-### 🎯 Featured Projects
-- 🎮 [Pokedex Web App](https://yashbaid21.github.io/PokeDex/)
-- 🌐 [Web Vision Website](https://webvision21.netlify.app/)
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+A modern responsive portfolio showcasing my skills, projects, and creative work.
+
+🔗 Live Demo:
+https://yashbaidportfolio.netlify.app/
 
 ---
 
-✨ **“Code, Create, and Contribute to Make a Difference!”** ✨
+### 🎮 Pokédex Web App
+A JavaScript application that fetches Pokémon data using an API with a responsive user interface.
+
+🔗 Live Demo:
+https://yashbaid21.github.io/PokeDex/
+
+---
+
+## 📈 GitHub Goals
+
+✔ Build useful real-world projects
+
+✔ Improve problem-solving skills
+
+✔ Learn Python thoroughly
+
+✔ Contribute to open-source projects
+
+✔ Grow as a Software Engineer
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+ybaid94@gmail.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/yashbaid07/
+
+🌐 Portfolio
+https://yashbaidportfolio.netlify.app/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into clean, responsive websites and visually appealing designs.
+
+---
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me.
